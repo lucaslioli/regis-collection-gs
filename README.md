@@ -2,7 +2,7 @@
 ## Gold Standard repository
 
 Public repository for the paper **Evaluating the Impact of OCR Quality on Information Retrieval: A Case Study in the Geoscientific Domain**
-This repository contains a sample of a 100 sentences from REGIS collection manually collected and corrected.
+This repository contains a sample of 100 sentences, with their corresponding pages, from REGIS collection manually collected and corrected.
 
 Lucas Lima de Oliveira, Danny Suarez Vargas, Viviane Pereira Moreira, Antônio Marcelo Azevedo Alexandre, Fábio Corrêa Cordeiro, Diogo da Silva Magalhães Gomes, Max de Castro Rodrigues. "Evaluating the Impact of OCR Quality on Information Retrieval: A Case Study in the Geoscientific Domain".
 
