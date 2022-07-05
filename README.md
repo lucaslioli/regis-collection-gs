@@ -1,10 +1,10 @@
 # REGIS Collection GS - Retrieval Evaluation for Geoscientific Information Systems
 ## Gold Standard repository
 
-Public repository for the paper **Evaluating the Impact of OCR Quality on Information Retrieval: A Case Study in the Geoscientific Domain**
+Public repository for the paper **Evaluating and Mitigating the Impact of OCR Errors on Information Retrieval: A Case Study in the Geoscientific Domain**, submitted to **International Journal on Digital Libraries**.
 This repository contains a sample of 100 sentences, with their corresponding pages, from REGIS collection manually collected and corrected.
 
-Lucas Lima de Oliveira, Danny Suarez Vargas, Viviane Pereira Moreira, Antônio Marcelo Azevedo Alexandre, Fábio Corrêa Cordeiro, Diogo da Silva Magalhães Gomes, Max de Castro Rodrigues. "Evaluating the Impact of OCR Quality on Information Retrieval: A Case Study in the Geoscientific Domain".
+Authors: Lucas Lima de Oliveira, Danny Suarez Vargas, Antônio Marcelo Azevedo Alexandre, Fábio Corrêa Cordeiro, Diogo da Silva Magalhães Gomes, Max de Castro Rodrigues, Regis Kruel Romeu, Viviane Pereira Moreira.
 
 REGIS collection link: https://github.com/Petroles/regis-collection
 
