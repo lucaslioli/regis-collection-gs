@@ -1,4 +1,6 @@
-# REGIS Collection GS - Retrieval Evaluation for Geoscientific Information Systems
+# REGIS Collection Gold Standard/Ground Truth 
+> Retrieval Evaluation for Geoscientific Information Systems
+
 ## Gold Standard repository
 
 Public repository for the paper **Evaluating and Mitigating the Impact of OCR Errors on Information Retrieval**, submitted to **International Journal on Digital Libraries**.
